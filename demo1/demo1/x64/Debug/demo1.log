@@ -1,0 +1,9 @@
+﻿  main.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\大帅比一号\Desktop\demo1\demo1\lib\SDL2.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\大帅比一号\Desktop\demo1\demo1\lib\SDL2main.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\大帅比一号\Desktop\demo1\demo1\lib\SDL2_image.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\大帅比一号\Desktop\demo1\demo1\lib\SDL2test.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\大帅比一号\Desktop\demo1\demo1\lib\SDL2_mixer.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\大帅比一号\Desktop\demo1\demo1\lib\SDL2_ttf.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\大帅比一号\Desktop\demo1\x64\Debug\demo1.exe : fatal error LNK1120: 1 个无法解析的外部命令
